@@ -1,0 +1,18 @@
+.btn-rounded{
+    width: 30%;
+}
+
+input[type=file]::file-selector-button{
+    background-color: white;
+    color: blue;
+    border-color: skyblue;
+    width: 50%;
+    height: 40px;
+    border-radius: 40px;
+}
+.form-check-input{
+    height: 25px;
+    width: 25px;
+    background-color: rgba(0, 0, 0, 0.137);
+    border: 1px solid black;
+}

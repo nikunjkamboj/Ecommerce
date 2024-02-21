@@ -1,0 +1,17 @@
+.cat
+{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#show{
+ background-color: white;
+ min-width: 100px;
+
+}
+.cartItems {
+    position: absolute;
+    border-radius: 50px;
+    top: 2px;
+    right: 77px;
+    padding: 2px;
+}

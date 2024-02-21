@@ -1,0 +1,15 @@
+.p{
+    column-count: 3;
+    text-align: justify;
+    column-gap: 40px;     
+}
+.para{
+    font-size: 34px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.container .p::first-letter{
+    color: red;
+    initial-letter: 3;
+    font-size: 80px;
+}
